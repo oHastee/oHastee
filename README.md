@@ -17,7 +17,7 @@ Now I build **scalable applications and cloud-based solutions**. I have **experi
 
 ## 🔥 **What I Work With**  
 
-### 🛠 **Tech Stack**  
+### 🛠 **Tech Skills*  
 **Languages:** Java, JavaScript (ES6+), Python, C#, Bash, Swift, CSS, HTML  
 
 **Frameworks & SDKs:** Spring Boot, Spring Security, Spring Data JPA, Android SDK, React.js, Node.js, Express.js, GraphQL (Apollo Server), Swift UI, ASP.NET Core, .NET Framework.
