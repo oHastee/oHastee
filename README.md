@@ -38,33 +38,8 @@ Now I build **scalable applications and cloud-based solutions**. I have **experi
 
 ---
 
-## 🚀 **Work Experience**  
-
-### **Full Stack Developer – Javada Services (Contract)**  
-📌 *Sept 2024 – April 2025*  
-🔹 Designed a **Payroll Management System** automating **payroll, invoicing, AR/AP**  
-🔹 Building a **Spring Boot backend**, integrating **Azure PostgreSQL**  
-🔹 Developed **UML diagrams & database architecture** for system efficiency  
-🔹 Creating a **React.js frontend** using **Figma prototypes**  
-
-### **Full Stack Developer – Sol Café (Contract)**  
-📌 *Jan 2025 – April 2025*  
-🔹 Built a **customer-facing website & manager portal** for a **Hookah Bar & Lounge**  
-🔹 Integrated **Twilio API for SMS notifications** and **Stripe API for secure payments**  
-🔹 Developing a **MongoDB Atlas-backed event & menu management system**  
-🔹 Used **GitHub branching strategies** for smooth collaboration  
-
-### **Sales & Leadership Experience (Rogers, The Source, Wave Managenent, Drive Management)**  
-📌 *2017 – 2022*  
-🔹 Consistently Ranked **Top 10 Nationally** in sales at every sales position I held, leading to recruitment to other sales companies ultimately leading me to Rogers.  
-🔹 Trained & expanded sales teams from **5 to 50+ high-performing reps**  
-🔹 Led **sales & leadership workshops**, helping teams consistently hit top targets  
-
-
----
-
 ### **🌟 Fun Facts About Me:**  
-🎮 I love video games run Call of Duty with the boys!  
+🎮 I love video games run Call of Duty with the boys! Elden Ring and RDR2 probably my two faviourite single player games.  
 🚀 Always learning new tech & looking for cool projects to build!  
 💪 Into BodyBuilding consistently going to the gym for 2 years and counting.
 
